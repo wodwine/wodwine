@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+**About me:** </br>   
+<img src="https://thumbs.gfycat.com/AshamedWeightyDachshund-small.gif" width="10%" height="auto" />
+
+</br>
 
 - 🔭 I’m currently working on the online course "Complete SQL and Databases Bootcamp: Zero to Mastery [2021]"
 - 🌱 I’m currently learning Database Management
