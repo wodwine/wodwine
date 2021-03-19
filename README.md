@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 **About me:** </br>   
-<img src="https://thumbs.gfycat.com/AshamedWeightyDachshund-small.gif" width="10%" height="auto" />
-
 </br>
 
 ```javascript
