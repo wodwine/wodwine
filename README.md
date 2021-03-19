@@ -25,7 +25,7 @@ const Wine = {
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SKLearn-%F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/SKLearn-%F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 - 🔭 I’m currently working on the online course "Complete SQL and Databases Bootcamp: Zero to Mastery [2021]"
 - 🌱 I’m currently learning Database Management
