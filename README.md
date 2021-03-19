@@ -5,6 +5,21 @@
 
 </br>
 
+```javascript
+const Wine = {
+  firstName: "Phanthakarn",
+  lastName: "Kiatphaisansophon",
+  nickname: "Wine",
+  age: 22,
+  education: {
+            highschool: "PCSHSNST-22",
+            college: "Software and Knowledge-16, Kasetsart University-78",
+          },
+  currently: "Studying Data Science",
+  internship: "SCG Chemicals: Rayong Province"
+}
+```
+
 - 🔭 I’m currently working on the online course "Complete SQL and Databases Bootcamp: Zero to Mastery [2021]"
 - 🌱 I’m currently learning Database Management
 - 💬 Ask me about via IG: wineptk
