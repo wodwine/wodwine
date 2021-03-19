@@ -2,7 +2,6 @@
 
 **About me:** </br>   
 </br>
-
 ```javascript
 const Wine = {
   firstName: "Phanthakarn",
