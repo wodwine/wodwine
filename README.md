@@ -23,7 +23,7 @@ const Wine = {
 <img src="https://img.shields.io/badge/java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-%23563D7C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SKLearn-%23ED8B00.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-%23563D7C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-%2314354C.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-%23E34F26.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-%23ED8B00.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
