@@ -22,7 +22,7 @@ const Wine = {
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-%23563D7C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SKLearn-%23ED8B00.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-%2314354C.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-%23E34F26.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-%23ED8B00.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
 **My Status** </br>        
-[![wodwine's github stats](https://github-readme-stats.vercel.app/api?username=wodwine&theme=algolia)](https://github.com/wodwine/github-readme-stats) </br>   
+[![wodwine's github stats](https://github-readme-stats.vercel.app/api?username=wodwine&theme=algolia)](https://github.com/wodwine/github-readme-stats)   
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=wodwine&theme=algolia&layout=compact)
 
 **What I am doing now**
