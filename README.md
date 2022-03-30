@@ -12,8 +12,13 @@ const Wine = {
             highschool: "PCSHSNST-22",
             college: "Software and Knowledge-16, Kasetsart University-78",
           },
-  currently: "Studying Data Science",
-  internship: "SCG Chemicals: Rayong Province"
+  currently: "Studying about Docker, Kubernetes, FastAPI, and Locust",
+  internship: "SCG Chemicals: Rayong Province",
+  work: {
+        "company": "appman co. ltd",
+        "position": "Machine Learning Engineer",
+        "workPlace": "Bangkok, Thailand"
+        }
 }
 ```
 
