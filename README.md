@@ -9,15 +9,15 @@ const Wine = {
   nickname: "Wine",
   age: 22,
   education: {
-            highschool: "PCSHSNST-22",
-            college: "Software and Knowledge-16, Kasetsart University-78",
-          },
+             highschool: "PCSHSNST-22",
+             college: "Software and Knowledge-16, Kasetsart University-78",
+             },
   currently: "Studying about Docker, Kubernetes, FastAPI, and Locust",
   internship: "SCG Chemicals: Rayong Province",
   work: {
-        "company": "appman co. ltd",
-        "position": "Machine Learning Engineer",
-        "workPlace": "Bangkok, Thailand"
+        company: "appman co. ltd",
+        position: "Machine Learning Engineer",
+        workPlace: "Bangkok, Thailand"
         }
 }
 ```
