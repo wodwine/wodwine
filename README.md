@@ -15,7 +15,7 @@ const Wine = {
   currently: "Studying about Docker, Kubernetes, FastAPI, and Locust",
   internship: "SCG Chemicals: Rayong Province",
   work: {
-        company: "appman co. ltd",
+        company: "AppMan co. ltd",
         position: "Machine Learning Engineer",
         workPlace: "Bangkok, Thailand"
         }
